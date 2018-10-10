@@ -1,2 +1,2 @@
 # hello-world
-yadda yadda yadda....updated
+This project is the first version of TNP-Hackathon.
